@@ -30,7 +30,7 @@ export class Tab2Page implements OnInit {
       header: 'Información',
       subHeader: 'Instituto Tecnológico Superior de Comalcalco',
       message:
-        'Nombre: Alexa Domínguez Castellanos\n\n' +
+        'Nombre: Eduardo Rodriguez Castellanos\n\n' +
         'Materia: Desarrollo de Aplicaciones Móviles\n\n' +
         'Semestre: 7mo\n\n' +
         'Grupo: A\n\n' +
